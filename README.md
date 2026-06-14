@@ -31,7 +31,8 @@
 <img width="1884" height="917" alt="Снимок экрана 2026-06-14 131955" src="https://github.com/user-attachments/assets/44e0a7ed-d2fc-4539-8466-d819be995959" />
 <img width="1885" height="916" alt="Снимок экрана 2026-06-14 132007" src="https://github.com/user-attachments/assets/aecc2b81-9528-44da-a1ed-79c01c97ec66" />
 <img width="1877" height="913" alt="Снимок экрана 2026-06-14 132016" src="https://github.com/user-attachments/assets/7607012b-a714-4d85-9805-2cb791e0359e" />
-- Примеры запросов curl
+
+Примеры запросов curl
 <img width="973" height="312" alt="Снимок экрана 2026-06-14 134319" src="https://github.com/user-attachments/assets/901b5409-ad96-4e95-9f07-1322fa63897c" />
 <img width="1896" height="375" alt="Снимок экрана 2026-06-14 134152" src="https://github.com/user-attachments/assets/a30e1acc-755d-442a-942d-9d2628f5f732" />
 <img width="966" height="274" alt="Снимок экрана 2026-06-14 135232" src="https://github.com/user-attachments/assets/c303c37a-c344-4a1b-8e33-d7b7b890d160" />
